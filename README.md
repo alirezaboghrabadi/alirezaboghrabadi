@@ -13,33 +13,23 @@
 ## 🚀 Tech Stack
 
 * PostgreSQL
-
 * SQL
-
 * Microsoft SQL Server
-
 * Power BI
-
 * Git
-
 * Python
-
 * Artificial Intelligence
 
 ## 📌 Current Focus
 
 * Database Design
-
 * Query Optimization
-
 * PostgreSQL Projects
-
 * SQL Server Practice
-
 * Business Intelligence
 
 ## 📫 Connect with me
 
-* LinkedIn: [Your LinkedIn URL]
+* LinkedIn: [https://www.linkedin.com/in/alireza-boghrabadi/]
 
 ⭐ Always learning, building, and improving.
